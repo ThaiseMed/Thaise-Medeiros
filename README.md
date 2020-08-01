@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089d6)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=f05032)
 
-You can find me on (https://img.shields.io/badge/Thaise-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2) or on (https://img.shields.io/badge/Thaise-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)
+You can find me on [](https://img.shields.io/badge/Thaise-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2) or on [](https://img.shields.io/badge/Thaise-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)
 
 <!-- Icons -->
 
