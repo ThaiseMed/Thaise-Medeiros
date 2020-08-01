@@ -5,3 +5,4 @@
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=visual-studio&logoColor=white&color=5c2d91)
 ![](https://img.shields.io/badge/DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=0078d7)
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089d6)
+![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white&color=f05032)
