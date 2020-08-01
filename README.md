@@ -10,7 +10,7 @@ Ask me about .NET and Azure.
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089d6)
 ![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white&color=f05032)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
