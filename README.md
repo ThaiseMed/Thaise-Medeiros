@@ -3,3 +3,4 @@
 
 
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=visual-studio&logoColor=white&color=5c2d91)
+![](https://img.shields.io/badge/DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=0078d7)
