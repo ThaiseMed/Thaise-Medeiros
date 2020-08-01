@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Header](https://user-images.githubusercontent.com/10655078/89108003-876cba80-d40b-11ea-96c4-60b0029abe06.png "Header")
+![Header](https://user-images.githubusercontent.com/10655078/89109667-a07c6800-d419-11ea-9b6c-ad1b12b27e02.gif "Header")
 
 
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=visual-studio&logoColor=white&color=5c2d91)
