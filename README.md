@@ -7,14 +7,7 @@
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089d6)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=f05032)
 
-![](https://img.shields.io/badge/Thaise-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2) 
-![](https://img.shields.io/badge/Thaise-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)
-<a href="mailto:mds.thaise@gmail.com"><img src="https://img.shields.io/badge/Thaise-informational?style=flat&logo=gmail&logoColor=white&color=d14836"></a> 
 
-<!-- Icons -->
-
-[1.2]: https://user-images.githubusercontent.com/10655078/89109907-c4d94400-d41b-11ea-94a9-42896bacd09b.png
-[2.2]: https://user-images.githubusercontent.com/10655078/89109893-a115fe00-d41b-11ea-8a31-f4a8b66816e4.png
-
-[1]: https://twitter.com/mdsthaise
-[2]: https://www.linkedin.com/in/thaisemedeiros/
+![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2) 
+![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)
+<a href="mailto:mds.thaise@gmail.com"><img src="https://img.shields.io/badge/Gmail-informational?style=flat&logo=gmail&logoColor=white&color=d14836"></a> 
