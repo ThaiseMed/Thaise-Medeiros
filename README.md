@@ -5,14 +5,14 @@
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=visual-studio&logoColor=white&color=5c2d91)
 ![](https://img.shields.io/badge/DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=0078d7)
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089d6)
-![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white&color=f05032)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=f05032)
 
 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
-[1.2]: https://user-images.githubusercontent.com/10655078/89109018-e2a2ab00-d413-11ea-951c-ef86ca2683bd.png 
-[2.2]: https://user-images.githubusercontent.com/10655078/89108948-555f5680-d413-11ea-8743-14f150a14e78.png 
+[1.2]: https://user-images.githubusercontent.com/10655078/89109907-c4d94400-d41b-11ea-94a9-42896bacd09b.png
+[2.2]: https://user-images.githubusercontent.com/10655078/89109893-a115fe00-d41b-11ea-8a31-f4a8b66816e4.png
 
 [1]: https://twitter.com/mdsthaise
 [2]: https://www.linkedin.com/in/thaisemedeiros/
