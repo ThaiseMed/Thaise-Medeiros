@@ -14,8 +14,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter Thaise Medeiros)
+[2.2]: https://user-images.githubusercontent.com/10655078/89108898-ef72cf00-d412-11ea-85b5-9f26a4a1bfd4.png (LinkedIn Thaise Medeiros)
 
 [1]: https://twitter.com/mdsthaise
 [2]: https://www.linkedin.com/in/thaisemedeiros/
