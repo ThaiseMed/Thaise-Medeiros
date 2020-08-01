@@ -14,7 +14,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter Thaise Medeiros)
+[1.2]: https://user-images.githubusercontent.com/10655078/89109018-e2a2ab00-d413-11ea-951c-ef86ca2683bd.png (Twitter Thaise Medeiros)
 [2.2]: https://user-images.githubusercontent.com/10655078/89108948-555f5680-d413-11ea-8743-14f150a14e78.png (LinkedIn Thaise Medeiros)
 
 [1]: https://twitter.com/mdsthaise
